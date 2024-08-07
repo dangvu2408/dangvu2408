@@ -25,8 +25,6 @@
     <img  alt="Python" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img  alt="Firebase" width="40px" style="padding:10px;" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
     <img  alt="MySQL" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    <img  alt="bootstrap" width="40px" style="padding:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-    <img  alt="tailwindcss" width="40px" style="padding:10px;" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"  />
     <img  alt="jquery" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg"  />
     <img  alt="figma" width="40px" style="padding:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
     <img  alt="Postman" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
