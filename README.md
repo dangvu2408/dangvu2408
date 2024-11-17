@@ -29,9 +29,6 @@
     <img  alt="figma" width="35px" style="padding:10;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
     <img  alt="Postman" width="35px" style="padding:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
   </div>
-  <div align="center" width="100%">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dangvu2408&theme=react-dark&hide_border=true&bg_color=20232A">
-  </div>
 </div>
 
 
