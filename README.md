@@ -29,7 +29,7 @@
     <img  alt="MySQL" width="35px" style="padding:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     <img  alt="jquery" width="35px" style="padding:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg"  />
     <img  alt="figma" width="35px" style="padding:10;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35px" style="padding:10;" alt="nodejs logo" />
+    <img  height="35px" width="35px" style="padding:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  alt="nodejs logo" />
   </div>
 </div>
 
