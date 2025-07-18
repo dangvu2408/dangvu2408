@@ -25,7 +25,7 @@
     <img  alt="git" width="35px" style="padding:10;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
     <img  alt="github" width="35px" style="padding:10;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
     <img  alt="gitlab" width="35px" style="padding:10;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
-    <img  alt="golang" width="35px" style="padding:10;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
+    <img  alt="golang" width="35px" style="padding:10;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/> <br>
     <img  alt="html" width="35px" style="padding:10;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
     <img  alt="java" width="35px" style="padding:10;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img  alt="js" width="35px" style="padding:10;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
