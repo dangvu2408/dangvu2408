@@ -11,7 +11,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dangvu2408&theme=radical&hide_border=false" height="200" alt="stats graph" /><br/>
     
   </div>
-  <div align="center" style="display:flex;flex-wrap: wrap;justify-content:center;align-items:center;">
+  <div align="center" style="display:flex;flex-wrap: wrap;justify-content:center;align-items:center; gap:10">
     <img  alt="Android" width="35px" style="padding:10;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
     <img  alt="Android Studio" width="35px" style="padding:10;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
     <img  alt="C" width="35px" style="padding:10;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
@@ -41,6 +41,7 @@
     <img  alt="react" width="35px" style="padding:10;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
     <img  alt="sqlite" width="35px" style="padding:10;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
     <img  alt="type" width="35px" style="padding:10;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+    <img  alt="tailwind" width="35px" style="padding:10;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
   </div>
 </div>
 
