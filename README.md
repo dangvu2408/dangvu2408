@@ -43,6 +43,18 @@
     <img  alt="type" width="35px" style="padding:10;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
     <img  alt="tailwind" width="35px" style="padding:10;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
   </div>
+  <div display="flex" align="center" >
+    <a href="dangquangvu2k4@gmail.com" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    </a>
+    <a href="https://www.linkedin.com/in/dangvu2408/" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    </a>
+    <a href="https://www.facebook.com/dangvu240804" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+    </a>
+  </div>
+  
 </div>
 
 
